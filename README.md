@@ -16,7 +16,6 @@
 
 ### 💼 Featured Projects
 - [🚗 Car Rental Management System in C](https://github.com/AR-Rahman-Iftekhar-Shovon/Car-Rental-System-With_C_Language)
--
 
 ---
 
